@@ -1,4 +1,4 @@
 #!/bin/sh
 
-pm2 restart blog
+/usr/local/bin/pm2 restart blog
 
